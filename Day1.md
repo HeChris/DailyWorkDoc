@@ -2,7 +2,9 @@
 
 * **Question** today when use the dapper access the MSSQL,the script is ok,but when execute throw followwing exception
 
- * **Answer**  asp.net ExecuteReader requires an open and available Connection. The connection's current state is open 
+*asp.net ExecuteReader requires an open and available Connection. The connection's current state is open* 
+
+ * **Answer**  
    i want figure out why got this error
    A:https://stackoverflow.com/questions/33497253/asp-net-executereader-requires-an-open-and-available-connection-the-connection
     In practice, most applications use only one or a few different configurations for connections.
@@ -17,4 +19,5 @@
    https://forums.iis.net/t/1192605.aspx
    
    https://social.msdn.microsoft.com/Forums/en-US/32ce6136-006f-40b4-9853-4906ff16232e/executereader-requires-an-open-and-available-connection-the-connections-current-state-is-open?forum=adodotnetdataproviders
+
     
