@@ -1,8 +1,8 @@
-### sql server exception
+## sql server exception
 
-0180831_Q. today when use the dapper access the MSSQL,the script is ok,but when execute throw followwing exception
+* **Question** today when use the dapper access the MSSQL,the script is ok,but when execute throw followwing exception
 
-   asp.net ExecuteReader requires an open and available Connection. The connection's current state is open 
+ * **Answer**  asp.net ExecuteReader requires an open and available Connection. The connection's current state is open 
    i want figure out why got this error
    A:https://stackoverflow.com/questions/33497253/asp-net-executereader-requires-an-open-and-available-connection-the-connection
     In practice, most applications use only one or a few different configurations for connections.
