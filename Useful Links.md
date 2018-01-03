@@ -15,3 +15,4 @@ http://www.zhaochenxi.com/2017/02/22/angular2-%E7%88%B6%E7%BB%84%E4%BB%B6%E5%92%
 * **ES6  Playground**:http://mikelambert.me/es6/     https://es6console.com/
 
 * **JS 标准库**:https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects
+* **CSS3  Loading animation**:http://blog.csdn.net/yeana1/article/details/51910166
